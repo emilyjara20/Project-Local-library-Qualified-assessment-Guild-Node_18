@@ -4,25 +4,24 @@ This repository contains a completed assessment of the "Project Local Library". 
 
 ## Project Overview
 
-This portfolio website template serves as a foundation to showcase your projects, skills, and experience as a developer. It includes pre-designed sections for an introduction, project gallery, skills, and contact information. You are encouraged to modify and extend the design to fit your personal style.
+- I developed a Local Library web using JavaScript to manage books, authors, and borrowing records.
+- This project focused on building an interactive discovery platform that allows users to search, update, and see checked out books.
+- I implemented array methods to manage the library data efficiently.
+- Testing and debugging were ongoing steps, making sure that features like search, filtering, and checked out books worked correctly.
+- The final result is a functional, user-friendly library management system that demonstrates strong understanding of core JavaScript concepts.
 
 ## Features
 
-- **Responsive Layout**: The template is designed to be mobile-friendly, ensuring that your portfolio looks great on all devices.
-- **Customizable Design**: Easily update images, colors, and content through the HTML and CSS files.
-- **Gallery Section**: Showcase your projects with space for project descriptions and links.
-- **Contact Form**: Pre-built form to collect inquiries and messages from visitors.
-
-# Getting Started
-
-Once you have the repository cloned, feel free to modify the HTML and CSS to add your personal details:
-- Update the **profile picture** and **about section** in `index.html`.
-- Add your own **project details** in the gallery section.
-- Customize colors and fonts in the `style.css` file to match your preferences.
+- Borrow and return system
+- Display available vs borrowed books
+- Search books by title or author
 
 # Customization
 
-This template is meant to be a starting point. Here are some suggestions for customization:
-- Replace the placeholder images in the `images/` folder with your own.
-- Modify the layout, fonts, and colors in `style.css` to make it unique.
-- Add additional sections for skills, experience, or testimonials as needed.
+- Initialize empty array to store book data.
+- Implement add/remove/search functions.
+- Refactor and optimize code for readability and efficiency.
+- Algorithms used; .filter() for search functionality, .map() for rendering transformation, .find() to locate books by ID.
+
+<img width="2264" height="1340" alt="image" src="https://github.com/user-attachments/assets/337bb7c8-3b3f-4d9e-9dcb-5ac51c47b984" />
+
